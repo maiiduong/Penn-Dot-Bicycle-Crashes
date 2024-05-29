@@ -10,3 +10,4 @@ How many cyclists were killed or seriously injured in car-involved accidents in 
 ## Dataset:
 The data in this project is collected from [PennDot Crash](https://pennshare.maps.arcgis.com/apps/webappviewer/index.html?id=8fdbf046e36e41649bbfd9d7dd7c7e7e)
 ## Data Visualization:
+![reportpage](https://github.com/maiiduong/Penn-Dot-Bicycle-Crashes/blob/main/PennDot_Crashes_Report.png)
